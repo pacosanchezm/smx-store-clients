@@ -1,0 +1,2 @@
+(this["webpackJsonpsmx-store-clientesc"]=this["webpackJsonpsmx-store-clientesc"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var s=c(1),n=c(3),o=c.n(n),i=(c(8),c(0));function r(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("h1",{children:"Hello CodeSandbox"}),Object(i.jsx)("h2",{children:"Start editing to see some magic world4!"})]})}const d=document.getElementById("root");o.a.render(Object(i.jsx)(s.StrictMode,{children:Object(i.jsx)(r,{})}),d)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.496c8e6e.chunk.js.map
